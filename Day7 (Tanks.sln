@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7 Tanks", "Day7 (Tanks\Day7 Tanks.csproj", "{EC1742EC-E33F-4C33-9D5E-D21899C0CE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLib", "MyClassLib\MyClassLib.csproj", "{89AD2904-37AF-4B14-B83C-A5F183923292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1742EC-E33F-4C33-9D5E-D21899C0CE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1742EC-E33F-4C33-9D5E-D21899C0CE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1742EC-E33F-4C33-9D5E-D21899C0CE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1742EC-E33F-4C33-9D5E-D21899C0CE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89AD2904-37AF-4B14-B83C-A5F183923292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89AD2904-37AF-4B14-B83C-A5F183923292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89AD2904-37AF-4B14-B83C-A5F183923292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AD2904-37AF-4B14-B83C-A5F183923292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D8537B7-96E7-49FE-A9A0-6DFA3387B501}
+	EndGlobalSection
+EndGlobal
